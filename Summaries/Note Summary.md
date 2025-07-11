@@ -257,50 +257,50 @@
 
 ## 虚拟语气
 
-* 虚拟语气（subjunctive mood）不是描述现实，而是表达**“不真实”或“不现实”**的情景或推测
+* **虚拟语气（subjunctive mood）不是描述现实，而是表达==“不真实”==或==“不现实”==的情景或推测**
   * 假设（if I were rich...）
   * 建议/要求（I suggest that he go...）
   * 愿望（I wish I could...）
   * 后悔/过去假设（If I had known...）
-* 第一类虚拟语气
-  * 假设**现在/将来**不真实的情况
+* **第一类虚拟语气**
+  * 假设==现在/将来==不真实的情况
   * If + 主语 + 动词过去式, 主语 + would/could/might + 动词原形
   * Example 
     * If I were rich, I would start a charity.
     * If students had more free time, they could engage in volunteering.
-* 第二类虚拟语气
-  * 对**过去未发生的事**进行推测或遗憾
+* **第二类虚拟语气**
+  * 对==过去未发生的事==进行推测或遗憾
   * If + 主语 + had + 过去分词, 主语 + would/could/might + have + 过去分词
   * Example
     * If I had studied harder, I would have passed the exam.
     * If the government had acted earlier, the crisis could have been avoided.
-* 第三类虚拟语气
-  * 对**过去情况**的非真实假设（过去➡️过去）
+* **第三类虚拟语气**
+  * 对==过去情况==的非真实假设（过去➡️过去）
   * If + 主语 + had + 过去分词, would have + 过去分词
   * Example
     * If I had left earlier, I would have caught the bus.
     * If I had studied harder, I would have passed the exam.
-* 混合虚拟语气
+* **混合虚拟语气**
   * 过去没做的事 ➡️ 现在造成的后果
   * If + had + done..., would + 动词原形（表示现在）
   * Example
     * If I had taken that job, I would be living in New York now.
     * If they had adopted stricter laws earlier, our cities would be safer.
-* 非 if 引导的虚拟语气
-  * 表示建议/要求/命令的虚拟语气
+* **非 if 引导的虚拟语气**
+  * **表示建议/要求/命令的虚拟语气**
     * 主句 + suggest/insist/require/propose + that + 主语 + 动词原形
     * Example
       * The theacher suggested that he study harder.
       * They demanded that the plan be revised.
-  * 表示愿望/后悔
-    * I wish...
+  * **表示愿望/后悔**
+    * **I wish...**
       * wish + 主语 + 过去式
         * 表达现在的愿望
         * I wish I knew the answer.
       * wish + had + 过去分词
         * 表达过去的后悔
         * I wish I had gone.
-    * If only（要是...多好）...
+    * **If only（要是...多好）...**
       * If only + 主语 + 过去式
         * 表示现在希望某事是另一种情况
         * If only I knew how to solve this problem.
@@ -310,16 +310,74 @@
       * If only + 主语 + would + 动词原形
         * 希望某事将来会发生
         * If only the company would consider employees' well-being.
-    * It is (high) time...
+    * **It is (high) time...**
       * It is (high) time + 主语 + 动词过去式
       * 表示早就应该做某事了（暗含对现状不满）
       * It's high time the government took action to solve the problem.
-    * would rather...
+    * **would rather...**
       * would rather + 主语 + 过去式
       * 用于希望别人做某事，是在说与现实相反的希望
       * She would rather he stayed at home today
-    * as if / as though (好像)...
+    * **as if / as though (好像)...**
       * as if + 主语 + 过去式（与现在事实相反）
       * He talks as if he knew everything.
       * as if + 主语 + had + 过去分词（与过去事实相反）
       * She acted as though she had never met him before.
+
+## Term
+
+* **常见含义及用法**
+
+  | 词义                    | e.g.                                              | 中文解释                   |
+  | ----------------------- | ------------------------------------------------- | -------------------------- |
+  | **术语 / 专业词汇**     | “Molecule” is a scientific **term**.              | “分子”是一个科学术语。     |
+  | **期限 / 任期**         | He was elected for a four-year **term**.          | 他被选为四年任期。         |
+  | **学期**                | The new **term** starts in September.             | 新学期九月开始。           |
+  | **条款 / 条件（复数）** | Read the **terms and conditions** carefully.      | 仔细阅读条款和条件。       |
+  | **措辞 / 表达方式**     | That’s not the right **term** to describe it.     | 那不是准确的表达方式。     |
+  | **方面 / 角度**         | In economic **terms**, the project was a failure. | 从经济角度看，该项目失败。 |
+
+* **常见短语表达**
+
+  * **角度 / 方面 / 层面**
+
+  | 短语表达                                                     | 含义                                                 | 例句                                                |
+  | ------------------------------------------------------------ | ---------------------------------------------------- | --------------------------------------------------- |
+  | **in terms of…** / **in … terms**                            | 从……角度、在……方面                                   | In terms of cost, this project is very efficient.   |
+  | in general / simple / technical / financial / practical / layman’s terms | 用一般 / 简单 / 技术 / 财务 / 实际 / 通俗 的语言来说 | In simple terms, inflation means prices are rising. |
+
+  * **时间 / 期限**
+
+  | 短语表达                              | 含义                      | 例句                                          |
+  | ------------------------------------- | ------------------------- | --------------------------------------------- |
+  | **short / medium / long / near term** | 短期 / 中期 / 长期 / 近期 | We need both short and long term strategies.  |
+  | **in the short / long term**          | 从短期 / 长远来看         | In the long term, education pays off.         |
+  | **term of office / term limit**       | 任期 / 任期限制           | The president has a four-year term of office. |
+
+  * **教育 / 学术类**
+
+  | 短语表达                                            | 含义                                       | 例句                                      |
+  | --------------------------------------------------- | ------------------------------------------ | ----------------------------------------- |
+  | **term paper**                                      | 学期论文                                   | I have to finish my term paper by Friday. |
+  | **spring / fall / final / one / last / first term** | 春秋季 / 最后 / 一个 / 上一 / 第一 学期/项 | I studied abroad during the spring term.  |
+
+  * **关系 / 妥协类**
+
+  | 短语表达                                               | 含义                 | 例句                                               |
+  | ------------------------------------------------------ | -------------------- | -------------------------------------------------- |
+  | **come to terms (with sth)**                           | 接受现实，妥协       | She finally came to terms with her father’s death. |
+  | **on (good/bad/friendly/speaking/equal) terms (with)** | 与某人关系好/差/平等 | We are on good terms with our neighbors.           |
+
+  * **条款 / 合同 / 付款类**
+
+  | 短语表达                                 | 含义                | 例句                                            |
+  | ---------------------------------------- | ------------------- | ----------------------------------------------- |
+  | **terms and conditions**                 | 条款和条件          | Always read the terms and conditions carefully. |
+  | **agree to the terms / negotiate terms** | 同意 / 协商 条款    | We refused to agree to the new terms.           |
+  | **payment term / term structure**        | 付款条件 / 期限结构 | The payment term is 30 days after delivery.     |
+
+  * **数学 / 序列类**
+
+  | 短语表达                        | 含义               | 例句                                        |
+  | ------------------------------- | ------------------ | ------------------------------------------- |
+  | **first / last / general term** | 首项 / 末项 / 通项 | The general term of the sequence is 3n + 1. |
