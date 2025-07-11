@@ -85,7 +85,7 @@
     * **on a regular basis**
       * 定期，等于 regularly
   * **on a daily basis** 放在 **be exposed to** 中的形式在书面语中增加句子的平衡  
-    * Example: The public is informed frequently of security threats.
+    * e.g. The public is informed frequently of security threats.
 
 * **tragic**
   * adj. 悲惨的；不幸的
@@ -96,13 +96,13 @@
     * **Worldwide**
       * adv. 全球地
       * adj. 全球范围的
-      * Example: The product is sold worldwide.
+      * e.g. The product is sold worldwide.
     * **across the globe**
       * 全球范围
-      * Example: Environmental problems occur across the globe.
+      * e.g. Environmental problems occur across the globe.
     * **on a global scale**
       * 在全球范围内
-      * Example: Poverty is a problem on a global scale.
+      * e.g. Poverty is a problem on a global scale.
 
 * **gradually**
   * adv. 逐渐地；渐渐地
