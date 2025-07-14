@@ -41,25 +41,29 @@
 * `student behavior in schools`
 * `variety of reasons, steps can be taken to tackle`
 
-​	It is true that the behavior of school pupils ==in some parts of the world== has been getting worse in recent year. There are a variety of possible reasons for this, but steps can definitely be taken to tackle the problem.
+> ​	It is true that the behavior of school pupils ==in some parts of the world== has been getting worse in recent year. There are a variety of possible reasons for this, but steps can definitely be taken to tackle the problem.
+>
 
 ### Paragraph 2
 
 `Causes of bad student behavior`
 
-​	In my opinion, three main factors are to blame for the way young people behave at school nowadays. Firstly, modern parents tend to be too ==lenient or permissive==. Many children become ==accustomed== to getting whatever they want, and they find it difficult to accept the demands of teachers or the limits ==imposed on== them by school rules. Secondly, if teachers cannot control their students, ==there must be an issue with the quality of classroom management training or support within schools==. Finally, children are influenced by the behavior of ==celebrities, many of whom== set the exmaple that success can be achieved without finishing school.
+> ​	In my opinion, three main factors are to blame for the way young people behave at school nowadays. Firstly, modern parents tend to be too ==lenient or permissive==. Many children become ==accustomed== to getting whatever they want, and they find it difficult to accept the demands of teachers or the limits ==imposed on== them by school rules. Secondly, if teachers cannot control their students, ==there must be an issue with the quality of classroom management training or support within schools==. Finally, children are influenced by the behavior of ==celebrities, many of whom== set the exmaple that success can be achieved without finishing school.
+>
 
 ### Paragraph 3
 
 `My suggested solution`
 
-​	Student behavior can certianly be improved. I believe that the change must start with parents, who need to be ==persuaded== that it is important to set ==firm rules== for their children. When children ==misbehave== or break the rules, parents should use reasonable punishments to demonstrate that actions have consequences. Also, schools could play an important role in taring both teachers and parents to use effective ==disciplinary techniques==, and in improving the communication between both groups. At the same time, famous people, such as musicians and football players, need to understand the reponsibility that they have to act as role models to children.
+> ​	Student behavior can certianly be improved. I believe that the change must start with parents, who need to be ==persuaded== that it is important to set ==firm rules== for their children. When children ==misbehave== or break the rules, parents should use reasonable punishments to demonstrate that actions have consequences. Also, schools could play an important role in taring both teachers and parents to use effective ==disciplinary techniques==, and in improving the communication between both groups. At the same time, famous people, such as musicians and football players, need to understand the reponsibility that they have to act as role models to children.
+>
 
 ### Conclusion
 
 `summarize the problem and steps`
 
-In conclusion, schools will continue to face discipline problems unless parents, teachers and ==public figures== set clear rules and demonstrate the right behavior themselves.
+> In conclusion, schools will continue to face discipline problems unless parents, teachers and ==public figures== set clear rules and demonstrate the right behavior themselves.
+>
 
 ## Vocabulary
 

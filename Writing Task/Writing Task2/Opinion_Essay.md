@@ -40,25 +40,29 @@
 * `spending on space exploration vs. public services`  
 * `space is a waste; support public benefit`
 
-Governments in some countries spend large amounts of money on space exploration programmes. I completely agree with the idea that these are a **waste of money**, and that the funds should be **allocated to public services**.
+> Governments in some countries spend large amounts of money on space exploration programmes. I completely agree with the idea that these are a **waste of money**, and that the funds should be **allocated to public services**.
+>
 
 ------
 
 ### Paragraph 2
 
-There are several reasons why **space programmes should be stopped**. Firstly, they are **extremely expensive**: training scientists and building facilities and equipment require huge investment. Secondly, they **do not benefit ordinary people** in daily life — these are often just **vanity projects** used by politicians to show power. Finally, space travel is **risky and dangerous**; a single mistake can cost lives. The **Challenger space shuttle disaster** showed us how dangerous such missions can be. In my view, these programmes are not worth the risk.
+> There are several reasons why **space programmes should be stopped**. Firstly, they are **extremely expensive**: training scientists and building facilities and equipment require huge investment. Secondly, they **do not benefit ordinary people** in daily life — these are often just **vanity projects** used by politicians to show power. Finally, space travel is **risky and dangerous**; a single mistake can cost lives. The **Challenger space shuttle disaster** showed us how dangerous such missions can be. In my view, these programmes are not worth the risk.
+>
 
 ------
 
 ### Paragraph 3
 
-I believe that money spent on space projects should be **redirected to public services**. It is **much cheaper** to train teachers, doctors, or police than astronauts or engineers. Public service workers also have a **positive impact on everyone** in society. For example, we all rely on **schools, hospitals, roads**, and **police protection**. If governments used this money better, **many thousands of people could be lifted out of poverty** and live better lives.
+> I believe that money spent on space projects should be **redirected to public services**. It is **much cheaper** to train teachers, doctors, or police than astronauts or engineers. Public service workers also have a **positive impact on everyone** in society. For example, we all rely on **schools, hospitals, roads**, and **police protection**. If governments used this money better, **many thousands of people could be lifted out of poverty** and live better lives.
+>
 
 ------
 
 ### Conclusion
 
-In conclusion, I think governments should **prioritize funding for public services** because they benefit everyone. It is **wrong to waste money** on space exploration when the money could be used to **improve people’s everyday lives**.
+> In conclusion, I think governments should **prioritize funding for public services** because they benefit everyone. It is **wrong to waste money** on space exploration when the money could be used to **improve people’s everyday lives**.
+>
 
 ------
 
@@ -78,7 +82,8 @@ In conclusion, I think governments should **prioritize funding for public servic
 
 * Introduction
 
-​	Some hobbies are relatively easy, while others present ==more of a challenge==. Personally, I believe that both types of hobby can be fun, and I therefore disagree with the statement that hobbies need to be difficult in order to be enjoyable.
+> ​	Some hobbies are relatively easy, while others present ==more of a challenge==. Personally, I believe that both types of hobby can be fun, and I therefore disagree with the statement that hobbies need to be difficult in order to be enjoyable.
+>
 
 * Explain why easy hobbies can be enjoyable
 * Explain why difficult hobbies can be fun
@@ -100,7 +105,8 @@ In conclusion, I think governments should **prioritize funding for public servic
 
 * Introduction
 
-​	It is true that many people criticise modern society because it seems to be too ==materialistic==. I agree with this ==to some extent==, but I do not think it is the case that everyone is ==victim== of consumer culture.
+> ​	It is true that many people criticise modern society because it seems to be too ==materialistic==. I agree with this ==to some extent==, but I do not think it is the case that everyone is ==victim== of consumer culture.
+>
 
 * I believe many people do focus too much on money.
 * However, many other are not money ==oriented==
@@ -120,7 +126,8 @@ In conclusion, I think governments should **prioritize funding for public servic
 
 * Introduction
 
-​	It is often argued that the act of sending a man to the moon has been of no benefit to normal people. While I agree that this is true ==in practical terms==, I believe that the ==psychological impact== of this great achievement should not be ==underestimated==.
+> ​	It is often argued that the act of sending a man to the moon has been of no benefit to normal people. While I agree that this is true ==in practical terms==, I believe that the ==psychological impact== of this great achievement should not be ==underestimated==.
+>
 
 * No benefit in pratical terms (standard of living, health)
 * But it was an inspiring achievement 
