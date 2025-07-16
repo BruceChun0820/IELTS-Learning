@@ -16,7 +16,7 @@
 
 > In conclusion, I think we should take more rest time because it benefits everyone and our whole society.
 
-## An Band9 Sample Essay
+## A Band9 Sample Essay
 
 > It is widely argued that the modern ==workforce== ==deserves a shorter working week==.  I completely agree that reducing the number of workdays and extending the weekend will ==lead to greater benefits for both individuals and society==.
 
