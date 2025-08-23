@@ -67,59 +67,30 @@
 
 ## Vocabulary
 
-* **a spirit of competition**
-  * 竞争精神
-  * **spirit**  
-    * n. 精神；心灵；志气；情绪  
-    * vt. 鼓励；鼓舞；诱拐
+### Words Table
 
-* **a great source of motivation**
-  * 一个动力源泉
+| Word                | Meaning (词性+释义)                                          | Note                         |
+| :------------------ | ------------------------------------------------------------ | ---------------------------- |
+| **spirit**          | n. 精神；心灵；志气；情绪<br>vt. 鼓励；鼓舞；诱拐            |                              |
+| **competitiveness** | n. 竞争性；竞争意识                                          |                              |
+| **outdo**           | vt. 胜过；超过                                               |                              |
+| **pupil**           | n. 小学生；门徒；弟子                                        |                              |
+| **rivalry**         | n. 竞争；竞赛；对抗                                          |                              |
+| **rival**           | n. 竞争对手<br>vt. 与……竞争；与……匹敌                        |                              |
+| **determination**   | n. 决心；坚定不移的意志；决定；确定                          |                              |
+| **perhaps**         | adv. 也许；可能                                              |                              |
+| **collaboration**   | n. 合作；协作；共创                                          | **Synonym**<br />cooperation |
+| **cooperation**     | n. 合作；配合                                                |                              |
+| **foster**          | v. 培养；促进；助长<br>v. 收养；代养                         |                              |
+| **desirable**       | adj. 可取的；值得拥有的；合意的                              | **Antonym**<br />undesirable |
+| **undesirable**     | adj. 不良的；不受欢迎的；不合需要的<br>n. 不良分子；不受欢迎的人 | **Antonym**<br />desirable   |
 
-* **introduce an element of competitiveness into**
-  * 将竞争的元素引入到 ...
-  * **competitiveness**
-    * 竞争性；竞争意识
+### Phrases Table
 
-* **outdo**
-  * 胜过；超过
-
-* **pupil**
-  * 小学生；门徒；弟子
-
-* **rivalry**
-  * 竞争；竞赛；对抗
-  * **rival**
-    * n. 竞争对手
-    * vt. 与……竞争；与……匹敌
-
-* **determination**
-  * n. 决心；坚定不移的意志；决定；确定
-
-* **perhaps**
-  * adv. 也许；可能
-
-* **collaboration**
-  * n. 合作；协作；共创
-  * Synonym
-    * **cooperation**
-      * n. 合作；配合
-
-* **a competitive determination to win**
-  * 非赢不可的心态
-
-* **foster**
-  * v. 培养；促进；助长
-  * v. 收养；代养
-
-* **either...or...**
-  * 不是就是
-  * Instead of promoting the idea that **people are either winners or losers**
-    * 而非助长人们不是成功就是失败的观点
-
-* **desirable**
-  * adj. 可取的；值得拥有的；合意的
-  * Antonym
-    * **undesirable**
-      * adj. 不良的；不受欢迎的；不合需要的
-      * n. 不良分子；不受欢迎的人
+| Phrase                                           | Meaning (中文)        | Sample Usage / Note                                          |
+| :----------------------------------------------- | --------------------- | ------------------------------------------------------------ |
+| **a spirit of competition**                      | 竞争精神              |                                                              |
+| **a great source of motivation**                 | 一个动力源泉          |                                                              |
+| **introduce an element of competitiveness into** | 将竞争的元素引入到... |                                                              |
+| **a competitive determination to win**           | 非赢不可的心态        |                                                              |
+| **either...or...**                               | 不是…就是…            | Instead of promoting the idea that people are either winners or losers |

@@ -26,49 +26,31 @@
 
 ## Vocabulary
 
-* **drawback**
-  * n. 缺点；不理条件
-* **be embraceed by**
-  * 被 ... 接受
-  * embrace
-    * v. 拥抱；接受；包含；信奉
-    * n. 拥抱
-* **fatigue**
-  * n. 疲劳
-  * v. 使疲劳
-* **autonomous**
-  * adj. 自动的；自治的；自主的
-* **rely on**
-  * 依赖于；依托于
-* **advanced artificial intelligence and senesor systems**
-  * 先进的人工智能和传感器系统
-* **overlook**
-  * Synonym: ignore
-  * v. & n. 忽视
-* **despite technological advancements**
-  * 尽管技术不断进步
-  * e.g.
-    * technological innovation
-    * technological development
-* **infallible**
-  * adj. 不会犯错的；万无一失的
-* **malfunction**
-  * n. 故障；障碍
-* **catastrophic**
-  * adj. 惨重的；灾难性的
-* **raising serious concerns about**
-  * 引起对 ... 严重的担忧
-* **oversight**
-  * n. 疏忽；忽视
-  * n. 监督；监管
-* **moral dilemmas**
-  * 道德上进退两难的处境
-  * dilemma
-    * n. 进退两难的处境；困境
-* **rigorous**
-  * adj. 严格的；缜密的
-* **ethical**
-  * adj. 道德的；伦理的
-* **be associated with**
-  * 与...关联的；与...来往
+### Words Table
 
+| Word             | Meaning (词性+释义)                  | Note                    |
+| :--------------- | ------------------------------------ | ----------------------- |
+| **drawback**     | n. 缺点；不利条件                    |                         |
+| **embrace**      | v. 拥抱；接受；包含；信奉<br>n. 拥抱 |                         |
+| **fatigue**      | n. 疲劳<br>v. 使疲劳                 |                         |
+| **autonomous**   | adj. 自动的；自治的；自主的          |                         |
+| **overlook**     | v. 忽视；俯瞰<br>n. 忽视（较少用）   | **Synonym**<br />ignore |
+| **infallible**   | adj. 不会犯错的；万无一失的          |                         |
+| **malfunction**  | n. 故障；障碍<br>v. 出故障           |                         |
+| **catastrophic** | adj. 灾难性的；惨重的                |                         |
+| **oversight**    | n. 疏忽；忽视；监管；监督            |                         |
+| **dilemma**      | n. 进退两难的处境；困境              |                         |
+| **rigorous**     | adj. 严格的；缜密的                  |                         |
+| **ethical**      | adj. 道德的；伦理的                  |                         |
+
+### Phrases Table
+
+| Phrase                                                  | Meaning (中文/说明)        | Note                                           |
+| :------------------------------------------------------ | -------------------------- | ---------------------------------------------- |
+| **be embraced by**                                      | 被……接受                   |                                                |
+| **rely on**                                             | 依赖于；依靠               |                                                |
+| **advanced artificial intelligence and sensor systems** | 先进的人工智能和传感器系统 | sensor 原单词为 sensor                         |
+| **despite technological advancements**                  | 尽管技术不断进步           | 相关表达：technological innovation/development |
+| **raising serious concerns about**                      | 引起对……严重的担忧         |                                                |
+| **moral dilemmas**                                      | 道德上的进退两难           | dilemma 见 Words Table                         |
+| **be associated with**                                  | 与……相关联；与……有关       |                                                |

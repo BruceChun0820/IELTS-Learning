@@ -57,74 +57,36 @@
 
 ## Vocabulary
 
-* **be exposed to s.th / doing**
-  * 接触到；暴露于
+### Words Table
 
-* **emphasis**
-  * n. 强调；重点
-  * **welcome a greater emphasis on ...**
-    * 希望更多着重于...
+| Word            | Meaning (词性+释义)                                    | Note |
+| :-------------- | ------------------------------------------------------ | ---- |
+| **emphasis**    | n. 强调；重点                                          |      |
+| **viewer**      | n. 观众；观看者                                        |      |
+| **provider**    | n. 提供者；供应商                                      |      |
+| **competitor**  | n. 竞争者；对手                                        |      |
+| **tragic**      | adj. 悲惨的；不幸的                                    |      |
+| **gradually**   | adv. 逐渐地；渐渐地                                    |      |
+| **desensitize** | vt. 使脱敏；使不敏感                                   |      |
+| **cynical**     | adj. 愤世嫉俗的；对他人动机持怀疑态度的                |      |
+| **skeptical**   | adj. 怀疑的；质疑的                                    |      |
+| **approach**    | v. 接近；靠近；交涉；处理<br>n. 方法；做法；途径；入口 |      |
 
-* **viewer**
-  * n. 观众；观看者
+### Phrases Table
 
-* **choose A over B**
-  * 选择A而不是B
-
-* **competing provider**
-  * 竞争的供应商
-  * **competitor**
-    * n. 竞争者；对手
-
-* **be probably under some pressure**
-  * 很可能在一些压力下
-
-* **promote particular political views**
-  * 推广特定政治见解
-
-* **be exposed on a daily basis to...**
-  * 每天都在接触...
-  * **on a daily basis**
-    * 每天都在，等于 every day
-    * **on a regular basis**
-      * 定期，等于 regularly
-  * **on a daily basis** 放在 **be exposed to** 中的形式在书面语中增加句子的平衡  
-    * e.g. The public is informed frequently of security threats.
-
-* **tragic**
-  * adj. 悲惨的；不幸的
-
-* **around the world**
-  * 在世界各地
-  * **synonym**
-    * **Worldwide**
-      * adv. 全球地
-      * adj. 全球范围的
-      * e.g. The product is sold worldwide.
-    * **across the globe**
-      * 全球范围
-      * e.g. Environmental problems occur across the globe.
-    * **on a global scale**
-      * 在全球范围内
-      * e.g. Poverty is a problem on a global scale.
-
-* **gradually**
-  * adv. 逐渐地；渐渐地
-
-* **desensitize**
-  * vt. 使脱敏；使不敏感
-
-* **cynical**
-  * adj. 愤世嫉俗的
-
-* **skeptical**
-  * adj. 怀疑的；质疑的
-
-* **a more positive approach**
-  * 一个更积极的做法
-  * **approach**
-    * v. 接近；靠近
-    * v. 交涉；接洽
-    * v. 处理
-    * n. 方法；做法
-    * n. 入口；途径
+| Phrase                                 | Meaning (中文/说明)            | Sample Usage / Note                              |
+| :------------------------------------- | ------------------------------ | ------------------------------------------------ |
+| **be exposed to sth / doing**          | 接触到；暴露于                 |                                                  |
+| **welcome a greater emphasis on ...**  | 希望更多地强调/注重……          |                                                  |
+| **choose A over B**                    | 选择A而不是B                   |                                                  |
+| **competing provider**                 | 竞争的供应商                   |                                                  |
+| **be probably under some pressure**    | 很可能在一些压力下             |                                                  |
+| **promote particular political views** | 推广特定政治见解               |                                                  |
+| **be exposed on a daily basis to...**  | 每天都接触……                   |                                                  |
+| **on a daily basis**                   | 每天地，等于 every day         |                                                  |
+| **on a regular basis**                 | 定期地，等于 regularly         |                                                  |
+| **around the world**                   | 在世界各地                     | worldwide / across the globe / on a global scale |
+| **worldwide**                          | adv. 全球地<br>adj. 全球范围的 | The product is sold worldwide.                   |
+| **across the globe**                   | 在全球范围                     | Environmental problems occur across the globe.   |
+| **on a global scale**                  | 在全球范围内                   | Poverty is a problem on a global scale.          |
+| **a more positive approach**           | 一个更积极的做法               |                                                  |

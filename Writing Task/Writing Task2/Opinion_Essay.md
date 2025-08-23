@@ -137,67 +137,33 @@
 
 ## Vocabulary
 
-* **staff**  
-  * n. 全体员工；不可数；被视为复数使用  
-  * ✅ five members of staff ⛔ five staff
-* **mission**  
-  * n. 任务；使命；代表团  
-  * e.g. space mission
-* **be involved with**  
-  * 与…有关，不一定有实际参与  
-  * cf. **be involved in** 表示实际参与
-* **vanity project**  
-  * 面子工程  
-  * 同义词：**white elephant**
-* **cost someone something**  
-  * 让某人付出某种代价  
-  * e.g. The mission cost the astronaut his life.
-* **disaster**  
-  * n. 灾难，不幸  
-  * e.g. The Challenger disaster
-* **it is not worth the risk**  
-  * 不值得冒险  
-  *  be worth doing
-  * be worth something
-* **servant**  
-  * n. 公务员；仆人  
-  * public / civil servant = 公务员
-* **impact**  
-  * n./v. 影响；冲击  
-  * an impact **on** sth （对……的影响）  
-  * the impact **of** sth （来自……的影响）
-* **allocate**  
-  * v. 分配；拨出  
-  * reallocate = 重新分配
-* **many thousands of**  
-  * 成千上万的  
-  * 比 thousands of更夸张
-* **be lifted out of poverty**  
-  * 摆脱贫困  
-  * e.g. Many people could be lifted out of poverty through proper funding.
-* **more of**
-  * 更像是；更加……一些
-*  **materialistic**
-  * adj. 崇尚物质的；功利化的
-  * adj. 唯物主义的
-* **to ... extent**
-  * 在...程度上
-  * e.g. 
-    * to some extent - 在某种程度上
-    * to a large / great extent - 很大程度上
-    * to a certain extent - 在一定程度上
-* **victim**
-  * n. 受害者；牺牲者
-* **oriented**
-  * adj. 导向的
-  * e.g. money oriented - 金钱为导向的 / 金钱至上的
-    * Synonym: profit driven; money motivated
-* **in ... terms**
-  * 从 ... 层面来看
-  * e.g.
-    * in pratical terms - 从实际层面看
-    * in theoretical terms - 从理论层面看
-* **psychological impact**
-  * 心理 / 精神上的影响
-* **underestimate**
-  * vt.&n . 低估；估计不足
+### Words Table
+
+| Word              | Meaning (词性+释义)                                          | Note                                          |
+| :---------------- | ------------------------------------------------------------ | --------------------------------------------- |
+| **staff**         | n. 全体员工（不可数，作复数看）；例：five members of staff （⛔ five staff 不可用） |                                               |
+| **mission**       | n. 任务；使命；代表团；例：space mission                     |                                               |
+| **disaster**      | n. 灾难，不幸；例：The Challenger disaster                   |                                               |
+| **servant**       | n. 公务员；仆人；常见搭配：public / civil servant（公务员）  |                                               |
+| **impact**        | n./v. 影响；冲击；an impact on sth（对……的影响）；the impact of sth（来自……的影响） |                                               |
+| **allocate**      | v. 分配；拨出；reallocate（重新分配）                        |                                               |
+| **materialistic** | adj. 崇尚物质的；功利化的；唯物主义的                        |                                               |
+| **victim**        | n. 受害者；牺牲者                                            |                                               |
+| **oriented**      | adj. 导向的；例：money oriented（金钱为导向的/金钱至上的）   | **Synony**<br>mprofit driven; money motivated |
+| **underestimate** | vt./n. 低估；估计不足                                        |                                               |
+
+### Phrases Table
+
+| Phrase                            | Meaning (中文/说明)                | Sample Usage / Note                                         |
+| :-------------------------------- | ---------------------------------- | ----------------------------------------------------------- |
+| **be involved with**              | 与…有关，不一定有实际参与          | cf. be involved in 表示实际参与                             |
+| **vanity project**                | 面子工程                           | Synonym: white elephant                                     |
+| **cost someone something**        | 让某人付出某种代价                 | e.g. The mission cost the astronaut his life.               |
+| **it is not worth the risk**      | 不值得冒险                         |                                                             |
+| **be worth doing / be worth sth** | 值得做…… / 值……                    |                                                             |
+| **many thousands of**             | 成千上万的，比 thousands of 更夸张 |                                                             |
+| **be lifted out of poverty**      | 摆脱贫困                           | e.g. Many people could be lifted out of poverty through...  |
+| **more of**                       | 更像是；更加……一些                 |                                                             |
+| **to ... extent**                 | 在...程度上                        | e.g. to some extent; to a great extent; to a certain extent |
+| **in ... terms**                  | 从 ... 层面来看                    | e.g. in practical terms; in theoretical terms               |
+| **psychological impact**          | 心理/精神上的影响                  |                                                             |

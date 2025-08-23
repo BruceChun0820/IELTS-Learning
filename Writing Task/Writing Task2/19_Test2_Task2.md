@@ -28,49 +28,35 @@
 
 ## Vocabulary
 
-* **workforce**
-  * n. 劳动力；劳动者；全体员工
-* **deserve a shorter working week**
-  * 应得更少的工作时间
-* **lead to greater benefits for both individuals and society**
-  * 更利于个人和社会
-* **demanding schedule**
-  * 苛刻的时间表
-* **tight deadline**
-  * 紧张的期限
-* **increasing workplace expectation**
-  * 对员工工作要求不断变高
-  * workplace
-    * n. 工作场所；工作氛围；工作要求
-* **strengthen bonds with family and friends** 
-  * 加强与家人和朋友之间的纽带（增进亲情和友情）
-* **all of which contribute to emotional balance and personal fulfillment**
-  * 这些都有助于情绪平衡和个人满足感
-    * contribute to - 贡献；有助于
-    * fulfillment - 满足
-* **prevent burnout**
-  * 防止过度疲劳
-  * burnout - 燃尽；精疲力尽
-* **reduce absent  **
-* **eeism**
-  * 降低缺勤率
-  * absenteeism - n . 旷工；缺勤
-* **minimize long-term health problem**
-  * 减少长期的健康问题的可能
-* **trial**
-  * n. 试验；尝试；努力
-* **as a whole**
-  * 总的来说
-  * synonym - overall; in general
-* **refresh**
-  * vt. 使恢复；更新；消除疲劳；恢复精神
-* **for instance**
-  * 比如；例如
-  * synonym - for example
-* **a major study conducted**
-  * 由...进行的一个重大的研究
-* **across various industries**
-  * 遍及各行各业的
-* **does not compromise the results but rather enhance them**
-  * 不仅没有影响成果反而能提示成果
-  * compromise - vt. 折中解决；损害；危害；n. 妥协；折中解决
+#### Words Table
+
+| Word            | Meaning (词性+释义)                             | Note |
+| :-------------- | ----------------------------------------------- | ---- |
+| **workforce**   | n. 劳动力；劳动者；全体员工                     |      |
+| **workplace**   | n. 工作场所；工作氛围；工作要求                 |      |
+| **fulfillment** | n. 满足；成就感；实现                           |      |
+| **burnout**     | n. 精疲力尽；燃尽；过度劳累                     |      |
+| **absenteeism** | n. 旷工；缺勤                                   |      |
+| **trial**       | n. 试验；尝试；努力                             |      |
+| **refresh**     | vt. 使恢复；更新；消除疲劳；恢复精神            |      |
+| **compromise**  | vt. 损害；危害；妥协；折中解决<br>n. 妥协；折中 |      |
+
+### Phrases Table
+
+| Phrase                                                       | Meaning (中文/说明)          | Note                                  |
+| :----------------------------------------------------------- | ---------------------------- | ------------------------------------- |
+| **deserve a shorter working week**                           | 应得更少的工作时间           |                                       |
+| **lead to greater benefits for both individuals and society** | 更利于个人和社会             |                                       |
+| **demanding schedule**                                       | 苛刻的时间表                 |                                       |
+| **tight deadline**                                           | 紧张的截止日期               |                                       |
+| **increasing workplace expectation**                         | 对员工工作要求不断变高       |                                       |
+| **strengthen bonds with family and friends**                 | 增进与家人和朋友之间的纽带   |                                       |
+| **contribute to emotional balance and personal fulfillment** | 有助于情绪平衡和个人满足感   | contribute to: 贡献，有助于           |
+| **prevent burnout**                                          | 防止过度疲劳                 | burnout: 精疲力尽                     |
+| **reduce absenteeism**                                       | 降低缺勤率                   | absenteeism: 旷工，缺勤               |
+| **minimize long-term health problem**                        | 减少长期健康问题的可能性     |                                       |
+| **as a whole**                                               | 总的来说                     | **Synonym** <br />overall; in general |
+| **for instance**                                             | 比如；例如                   | **Synonym** <br />for example         |
+| **a major study conducted**                                  | 由……进行的一个重大研究       |                                       |
+| **across various industries**                                | 遍及各行各业                 |                                       |
+| **does not compromise the results but rather enhance them**  | 不但没有影响成果反而提升成果 |                                       |
