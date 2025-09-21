@@ -1,10 +1,10 @@
 ## Essay Question
 
-**Nowadays, people spend a great deal of time sitting, leading to health problems. Why does this happen? What are the best ways to encourage people to sit less?**
+*Nowadays, people spend a great deal of time sitting, leading to health problems. Why does this happen? What are the best ways to encourage people to sit less?*
 
 ## Sample
 
-> In today's society, ==sedentary== behavior has become ==a defining feature== of daily life. From long office hours to leisure ==dominated by== screens, people often sit for ==extended periods==. I believe this trend ==arises from== ==modern work patterns==, == == it can be addressed through practical ==interventions==.
+> In today's society, ==sedentary== behavior has become ==a defining feature== of daily life. From long office hours to leisure ==dominated by== screens, people often sit for ==extended periods==. I believe this trend ==arises from== ==modern work patterns==, ==yet== it can be addressed through practical ==interventions==.
 
 > One major reason is that the ==prevalence== of sitting is strongly ==tied to== the structure of comtemporary work. Many jobs require hours at a desk, while digital devices dominate recreation. For example, an employee may spend the day in meetings and data analysis, then return home to watch television or ==scroll on== a phone. Car commuting adds even more sitting time, ==leaving little space for== natural movement. Over time, such habits contribute to ==weight gain and higher stress==, often without people realizing how much time they remain inactive.
 
@@ -12,7 +12,7 @@
 
 > Another ==promising== approach is to promote public health campaigns that encourage active transport and ==accessible recreation==. Not all solutions can rely on workplaces, as individual lifestyle choices also matter. For example, cities that expand bike lanes or create pedestrian-friendly parks provide residents with opportunities to replace sitting with light exercise in their daily routines.
 
-> In conclusion, ==excessive== sitting ==is rooted in== the ==nature of modern work and lifestyles==, yet it is not ==irreversible==. By reshaping ==workplace practices== and fostering more active lifestyles through ==publc initiatives==, societies can counter this trend and build ==healthier patterns== for the future.
+> In conclusion, ==excessive== sitting ==is rooted in== the ==nature of modern work and lifestyles==, yet it is not ==irreversible==. By reshaping ==workplace practices== and fostering more active lifestyles through ==public initiatives==, societies can counter this trend and build ==healthier patterns== for the future.
 
 ## Vocabulary
 

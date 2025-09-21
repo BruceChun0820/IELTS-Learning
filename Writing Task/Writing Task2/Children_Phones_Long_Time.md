@@ -2,7 +2,7 @@
 
 ## Essay Question
 
-*Some children spend hours every day on their smartphones.**Why is this the case? Do you think this is a positive or a negative development?*
+*Some children spend hours every day on their smartphones.Why is this the case? Do you think this is a positive or a negative development?*
 
 ## Essay Sample
 

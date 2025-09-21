@@ -14,6 +14,40 @@
 >
 > To conclude, improving living standards and protecting wildlife should not be viewed as ==competing goals==. Long-term human ==prosperity== depends on a ==healthy planet==, and policies that integrate both social and environmental needs are more likely to yield sustainable and ==equitable== outcomes.
 
+## Essay structure
+
+### First paragraph
+
+* `In many societies` / `In recent years`, **A** development is viewed as `the primary goal`, often justified as a means to `raise` / `stimulate` ...
+* However, some argue that such `progress` should take precedence over **B**.
+* I strongly disagree with this view, as **B** is not only compatible with ..., but also essential to `sustaining` it.
+
+### Second paragraph
+
+* To begin with, **B** palys a vital role in ..., which directly influences....
+* List some approaches how **B** influences...
+* For example,...
+* If ... continues `unchecked`, any temporary gains in ... may be offset by long-term losses in ...
+
+### Third paragraph
+
+* Moreover, **B** can ... through...
+* For instance, ...
+* These models show that ...
+
+### Fourth paragraph
+
+* Admittedly, there are cases where..., especially in ...
+* However, this does not require ignoring **B**
+* On the contrary, integrating **B** concerns into development planning can produce more resilient outcomes.
+* In this sense, prioritizing **A** should not mean sacrificing **B**.
+
+### Last paragraph
+
+* To conclude, **A** and **B** should not be viewed as competing `goals`.
+* Long-term ... depends on a ...
+* `policies` that integrate both **A** and **B** advantages are more likely to yield sustainable and `equitable` outcomes.
+
 ## Vocabulary
 
 ### Words Table
