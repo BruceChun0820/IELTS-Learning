@@ -175,3 +175,35 @@
 * No, I wouldn't, In my opinion, a school without rules would be very diffcult to manage, especially for young students
 * Rules provide structure and discipline, which are necessary for effective teaching and learning
 * Without them, the classroom could easily become chaotic
+
+## Day 5
+
+*Have you ever talked with someone you don’t know in public places?*
+
+* Yes, I have.
+* I was on a long train journey
+* The person sitting beside next to me lost his ID card
+* By chance, I found it under my seat and gave it back to him
+* After expressing his gratitude, he started a conversation with me
+* just about cars, investment, and education
+* the kind of things guys usually chat about
+* we ended up talking for the whole journey, which actually made the trip much more enjoyable
+
+*Do you wear headphones in public places?*
+
+* Sometimes, I do
+* especially on a long commute
+* I usually wear my headphones to listen to music or watch short videos
+* that way I can make good use of my fragmented time to learn some new knowledge or just simply to relax
+
+*Would you like to see more public places near where you live?*
+
+* Yes, I hope so
+* I really need more public places like a library, a supermarket, and a gym near my apartment for me to find a place study or do some exercise.
+* In my opinion, the government should take this into account and invest in more community facilities, which would practically improve the quality of life for local residents
+
+*Do you often go to public places with your friends?*
+
+* Yes, I often go to the basketball court near my home with my friends
+* we have formed a three-memers team to compete against other groups
+* It is not only a way to get exercise, but also for fun and chance to improve our basketball skills
