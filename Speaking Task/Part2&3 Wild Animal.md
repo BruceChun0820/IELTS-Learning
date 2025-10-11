@@ -63,10 +63,10 @@ Describe a wild animal that you want to learn more about You should say:
 
 *Why should we protect wild animals?*
 
-* I believe protecting wild animals is crucial for two reasons
+* I believe protecting wild animals is **crucial for two reasons**
 * first of all, they play an important role in **maintaining the balance of ecosystems**
 * if one species goes **extinct**, it could **disrupt** the food chain and lead to unexpected consequences in the natural world
-* Secondly, wild animals contribute to scentific research and discoveries.
+* Secondly, wild animals contribute to **scientific research and discoveries**.
 * For instance, studying certain species has helped scientists **develop new medicines** or better understand human biology
 
 *Why are some people more willing to protect wild animals than others?*
@@ -82,7 +82,7 @@ Describe a wild animal that you want to learn more about You should say:
 * zoos give children a rare opportunity to **observe wild animals up close**
 * which can **spark their curiosity** about nature and encourage them to learn more about **animals and environment protection**
 * However, in **low-quality zoos**, animals are kept in poor conditions, it might **send the wrong message**
-* But overall, a **well-managed zoo** can play an **educational and inspirational** role in a child's develoment.
+* But overall, a **well-managed zoo** can play an **educational and inspirational** role in a child's development.
 
 *Why do some people attach more importance to protecting rare animals?*
 
