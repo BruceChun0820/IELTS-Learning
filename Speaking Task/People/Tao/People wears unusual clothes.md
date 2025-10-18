@@ -17,7 +17,6 @@ What his/her clothes are like
 
 And explain why you think his/her clothes are unusual
 
-* He often wears basketball **outfits** and **sneakers** even when he **is not playing basketball** but **in the library or at restaurants**
-* As if he is **always prepared** to **play basketball** 
+* He often wears basketball **outfits** and **sneakers** ,as if he is **always prepared** to **play basketball**  even when he **is in the library or at restaurants**
 * I think his clothing style **stands out** because it **reflects** his personality -- **energetic**, **confident** , and **passionate about sports**
 * So even though his dressing style is a bit unusual, his **bright and confident** **appearance** always gives people **a sense of positivity and strength** 

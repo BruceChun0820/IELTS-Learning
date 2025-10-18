@@ -9,7 +9,7 @@ How you knew him/her
 
 What interesting thing you did 
 
-* both of us have been **passionate about basketball** since high school
+* both of us have been **passionate about basketball** since we were kids
 * Although I **was interested** in it, I was **not good at basketball** at first
 * I still remember one particular competition during high school, where I made serveral mistakes, which eventually caused our team to lose
 * I was so **frustrated** and upset that I didn't want to face my teammates

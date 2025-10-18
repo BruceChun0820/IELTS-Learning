@@ -8,7 +8,9 @@ Who he/she is
 
 Where and how you met each other 
 
-* We grew up in the **same neighbourhood** and **studied in the same schools**
+* We have known each other for 20 years
+
+* Because we grew up in the **same neighbourhood** and **studied in the same schools**
 * So we could frequently meet each other
 
 What you often did together
@@ -22,7 +24,7 @@ And explain what made you like him/her
 * I still remember one particular competition during high school
 * where I made several mistakes during the match, which eventually caused our team to lose
 * I was so **frustrated** and **upset** that I didn't want to face my teammates
-* However, he found me sitting at playground
+* However, he found me sitting at playground alone
 * and comforted me, told me not to be down and nobody was blaming me
 * He also encouraged me to **move on** and **keep practicing**
 * I was so **touched** and decided to follow his advice

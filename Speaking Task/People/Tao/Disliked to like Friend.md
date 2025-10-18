@@ -13,7 +13,7 @@ Why you disliked him/her at first but changed your mind
 
 * both of us have been passionate about basketball since we were kids
 * he was **quite talented in it** and **outstanding among students**
-* But therefore he **appeared** a bit **arrogant** and sometimes **selfish** during the games
+* therefore he **appeared** a bit **arrogant** and sometimes **selfish** during the games
 * So that was why I didn't like him very much
 * However, I still remember one particular competition, where I made several mistakes during the match, which eventually caused our team to lose
 * I was so frustrated and upset that I didn't want to face my teammates

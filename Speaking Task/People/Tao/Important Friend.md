@@ -6,13 +6,16 @@ Who he/she is
 
 How/where you got to know him/her & How long you have known each other 
 
-* We have known each other for about 20 years since childhood, as we grew up in the **same neighborhood** and went to the **same schools**.
-* He has always been one of the most impressive people I’ve met.  
+* We have known each other for about 20 years, as we grew up in the **same neighborhood** and studied in the **same schools**.
 
 And explain why he/she is important to you
 
-* Tao is **very talented in singing**. When we were in high school, he won first prize in a singing competition with a romantic song.
-* Besides music, he’s also **passionate about basketball**. During university, he became **the captain of the basketball team** and even led the team to win several championships.
-* I’m not very good at basketball and singing, but he often encouraged me to play and helped me gain confidence.
-* Especially when I made mistakes during the matches,  he would always reach out his hand and say, “Don’t be down, just keep going.”
-*  Therefore, what makes him an important buddy to me is not only **his talent** and **shared hobbies** but also his **supportive personality** and the way he always **encourages people around him**, including me, to **overcome challenges** and **become more confident**
+* Both of us have been passionate about basketball since we were kids
+* I still remember one particular competition during high school where I made several mistakes during the match, which eventually caused our team to lose
+* I was so frustrated and upset that I didn't want to face my teammates
+* However, he found me sitting at playground alone and comforted me
+* He told me no to be down and nobody was blaming me
+* He also encouraged me to move on and keep practicing
+* I was very touched and decided to follow his advice
+* Since then, we started to practice together more frequently and gradually improved our basketball skills
+* Therefore, what makes him an important friend to me, is not just his talent and our shared hobbies, but also his supportive personality and the way he always encourages people around him, including me, to overcome challenges and be more confident

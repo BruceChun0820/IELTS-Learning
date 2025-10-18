@@ -3,7 +3,7 @@ Describe a person you know who enjoys working for a family business (e.g. a shop
 Who he/she is
 
 * I’d like to talk about my friend **Tao**, who grew up with me.
-* We have known each other since childhood
+* We have known each other for 20 years
 * Because we grew up in the same neighbourhood and studied in the same schools
 
 What the business is  

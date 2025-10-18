@@ -24,3 +24,4 @@
 * Sometimes, being **shy or hesitant** might lead to **missed opportunities**
 * So I really appreciate his attitude, and I've learned a lot from him
 * Not just about work, but also about how to **express myself more confidently**
+* I expect to **cooperate more** with him and gain more useful experience, which will significantly **benefit my career**

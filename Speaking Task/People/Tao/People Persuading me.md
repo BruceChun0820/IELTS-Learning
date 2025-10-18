@@ -3,12 +3,13 @@ Describe a time when a person persuaded you to do something and you were happy a
 Who he/she was 
 
 * I’d like to talk about my friend **Tao**, who grew up with me. 
-* We have known each other since childhood
+* We have known each other for 20 years
+* Because we grew up in the same neighbourhood and studied in the same schools
 
 When/where it happened 
 
-* **Both of us have been passionate** about basketball for many years
-* When we were in high school, we often played together
+* **Both of us have been passionate** about basketball since we were kids
+* Honestly, I was not very good at basketball at first
 * I still remember one particular competition during high school, I made **several mistakes** during that match, which **eventually caused our team to lose**
 * I was so **frustrated and upset** that I **didn't want to face** my teammates
 
@@ -22,4 +23,4 @@ What he/she persuaded you to do
 And explain why you were happy
 
 * Since then, we **started to practice** together **more frequently** and **gradually improved our basketball skills**
-* What makes me happy is not only our improvement, but also **the fact that** I have such a **supportive and inspiring** buddy who always encourages me to **overcome challenges** and **become better**
+* Therefore, what makes me happy is not only our improvement, but also **the fact that** I have such a **supportive and inspiring** buddy who always encourages me to **overcome challenges** and **become more confident**
