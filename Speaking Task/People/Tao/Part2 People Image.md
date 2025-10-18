@@ -15,7 +15,7 @@ Besides music, he’s also **passionate about basketball**. During university, h
 Because of his charm and talents, Tao was **very popular** among students. Maybe he was a bit proud at first, and I used to find him a little **arrogant**. But later, after spending more time together, I realized he was actually very kind and supportive, so we became **close friends**.  
 
 ### 5️⃣ Career Development & Intelligence
-After graduation, he decided to **help with his family business**, which is a **convenience store**. What impressed me most is that he **managed to shift from being an athlete to a business operator** so quickly. Even though he never studied management or business formally at university, he **taught himself everything** — from stock control to customer service — by reading books, observing experienced people, and learning from daily practice.  
+After graduation, he decided to **help with his family business**, which is a **convenience store**. What impressed me the most is that he **managed to shift from being an athlete to a business operator** so quickly. Even though he never studied management or business formally at university, he **taught himself everything** — from stock control to customer service — by reading books, observing experienced people, and learning from daily practice.  
 Within just a few months, he became quite good at running the shop, and even introduced **new marketing ideas** that helped attract more customers. I think this shows how **intelligent and adaptable** he is.  
 
 ### 6️⃣ Feelings / Conclusion

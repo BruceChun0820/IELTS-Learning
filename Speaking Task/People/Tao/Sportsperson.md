@@ -15,7 +15,7 @@ What achievement he/she has made
 
 What he/she is like in real life 
 
-* What impressed me most was **not only his great skills on the court** 
+* What impressed me the most was **not only his great skills on the court** 
 * but also his **positive mindset** and the way he **motivated everyone** around him
 * For example, when I played basketball with him and made some mistakes in the matches
 * he would always give me a hand, tell me not to be down, and encourage me to keep moving forward

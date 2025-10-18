@@ -16,7 +16,7 @@
 
 * Actually, he's **the first foreigner** I've ever got to know deeply
 * so I was quite **curious** about his **culture and personality** at the beginning
-* What impressed me most is that he's very **active and confident** during meetings
+* What impressed me the most is that he's very **active and confident** during meetings
 * He **never hesitate** to ask questions when he doesn't understand something
 * and he's **not afraid of** making mistakes
 * This is quite **different** from many **Chinese newcomers**, who tend to be more **shy and reserved** in front of others

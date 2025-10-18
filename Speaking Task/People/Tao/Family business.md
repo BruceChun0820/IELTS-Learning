@@ -13,7 +13,7 @@ What the business is
 
 What his/her job is  
 
-* What impressed me most is that he **managed to shift from being an athlete to a business operator** so quickly. 
+* What impressed me the most is that he **managed to shift from being an athlete to a business operator** so quickly. 
 * Even though he never studied management or business **systematically** at university, he **taught himself everything** — from **stock control** to **customer service** — by **reading books**, **observing experienced people**, and learning from **daily practice**. 
 
 And explain why he/she enjoys working there
